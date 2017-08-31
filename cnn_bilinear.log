@@ -1,0 +1,298 @@
+2017-01-23 15:43:25.619 INFO -  Evaluating: plain_signal_features
+2017-01-23 15:43:25.901 INFO -  >>> Loading from cache scheduled
+2017-01-23 15:43:25.906 INFO -  Evaluating: features - plain_signal_features, classifier - classify_matcnn...
+2017-01-23 15:43:25.916 INFO -  >>> Using cache: data/plain_signal_features_T1.mat
+2017-01-23 15:52:59.303 INFO -  Subject time: 573.4000 sec, approx time ramaining: 4587.2002 sec
+2017-01-23 15:52:59.320 INFO -  Iteration 1:
+2017-01-23 15:52:59.320 INFO -    Classify accuracy - train: 0.9549 test: 0.5801
+2017-01-23 15:52:59.337 INFO -    Validate 10-fold  - train: 0.5211 test: 0.5546
+
+2017-01-23 15:52:59.337 INFO -  >>> Loading from cache scheduled
+2017-01-23 15:52:59.337 INFO -  Evaluating: features - plain_signal_features, classifier - classify_matcnn...
+2017-01-23 15:52:59.337 INFO -  >>> Using cache: data/plain_signal_features_T2.mat
+2017-01-23 16:02:30.554 INFO -  Subject time: 571.2149 sec, approx time ramaining: 3998.5046 sec
+2017-01-23 16:02:30.554 INFO -  Iteration 2:
+2017-01-23 16:02:30.554 INFO -    Classify accuracy - train: 0.9410 test: 0.3357
+2017-01-23 16:02:30.554 INFO -    Validate 10-fold  - train: 0.4341 test: 0.3110
+
+2017-01-23 16:02:30.554 INFO -  >>> Loading from cache scheduled
+2017-01-23 16:02:30.554 INFO -  Evaluating: features - plain_signal_features, classifier - classify_matcnn...
+2017-01-23 16:02:30.554 INFO -  >>> Using cache: data/plain_signal_features_T3.mat
+2017-01-23 16:12:01.020 INFO -  Subject time: 570.4639 sec, approx time ramaining: 3422.7836 sec
+2017-01-23 16:12:01.020 INFO -  Iteration 3:
+2017-01-23 16:12:01.020 INFO -    Classify accuracy - train: 0.9549 test: 0.6300
+2017-01-23 16:12:01.020 INFO -    Validate 10-fold  - train: 0.6498 test: 0.5643
+
+2017-01-23 16:12:01.020 INFO -  >>> Loading from cache scheduled
+2017-01-23 16:12:01.020 INFO -  Evaluating: features - plain_signal_features, classifier - classify_matcnn...
+2017-01-23 16:12:01.020 INFO -  >>> Using cache: data/plain_signal_features_T4.mat
+2017-01-23 16:21:29.987 INFO -  Subject time: 568.9726 sec, approx time ramaining: 2844.8629 sec
+2017-01-23 16:21:29.987 INFO -  Iteration 4:
+2017-01-23 16:21:29.987 INFO -    Classify accuracy - train: 0.9306 test: 0.3904
+2017-01-23 16:21:30.003 INFO -    Validate 10-fold  - train: 0.3235 test: 0.3595
+
+2017-01-23 16:21:30.004 INFO -  >>> Loading from cache scheduled
+2017-01-23 16:21:30.004 INFO -  Evaluating: features - plain_signal_features, classifier - classify_matcnn...
+2017-01-23 16:21:30.004 INFO -  >>> Using cache: data/plain_signal_features_T5.mat
+2017-01-23 16:30:58.945 INFO -  Subject time: 568.9396 sec, approx time ramaining: 2275.7585 sec
+2017-01-23 16:30:58.947 INFO -  Iteration 5:
+2017-01-23 16:30:58.948 INFO -    Classify accuracy - train: 0.9063 test: 0.2754
+2017-01-23 16:30:58.949 INFO -    Validate 10-fold  - train: 0.2571 test: 0.2860
+
+2017-01-23 16:30:58.954 INFO -  >>> Loading from cache scheduled
+2017-01-23 16:30:58.954 INFO -  Evaluating: features - plain_signal_features, classifier - classify_matcnn...
+2017-01-23 16:30:58.954 INFO -  >>> Using cache: data/plain_signal_features_T6.mat
+2017-01-23 16:40:28.745 INFO -  Subject time: 569.7892 sec, approx time ramaining: 1709.3675 sec
+2017-01-23 16:40:28.746 INFO -  Iteration 6:
+2017-01-23 16:40:28.747 INFO -    Classify accuracy - train: 0.9236 test: 0.3721
+2017-01-23 16:40:28.747 INFO -    Validate 10-fold  - train: 0.3533 test: 0.3522
+
+2017-01-23 16:40:28.751 INFO -  >>> Loading from cache scheduled
+2017-01-23 16:40:28.752 INFO -  Evaluating: features - plain_signal_features, classifier - classify_matcnn...
+2017-01-23 16:40:28.753 INFO -  >>> Using cache: data/plain_signal_features_T7.mat
+2017-01-23 16:49:58.866 INFO -  Subject time: 570.1167 sec, approx time ramaining: 1140.2334 sec
+2017-01-23 16:49:58.866 INFO -  Iteration 7:
+2017-01-23 16:49:58.867 INFO -    Classify accuracy - train: 0.9549 test: 0.4874
+2017-01-23 16:49:58.868 INFO -    Validate 10-fold  - train: 0.4792 test: 0.4118
+
+2017-01-23 16:49:58.870 INFO -  >>> Loading from cache scheduled
+2017-01-23 16:49:58.870 INFO -  Evaluating: features - plain_signal_features, classifier - classify_matcnn...
+2017-01-23 16:49:58.870 INFO -  >>> Using cache: data/plain_signal_features_T8.mat
+2017-01-23 16:59:31.586 INFO -  Subject time: 572.7277 sec, approx time ramaining: 572.7277 sec
+2017-01-23 16:59:31.586 INFO -  Iteration 8:
+2017-01-23 16:59:31.586 INFO -    Classify accuracy - train: 0.9375 test: 0.5129
+2017-01-23 16:59:31.586 INFO -    Validate 10-fold  - train: 0.5248 test: 0.4279
+
+2017-01-23 16:59:31.603 INFO -  >>> Loading from cache scheduled
+2017-01-23 16:59:31.604 INFO -  Evaluating: features - plain_signal_features, classifier - classify_matcnn...
+2017-01-23 16:59:31.605 INFO -  >>> Using cache: data/plain_signal_features_T9.mat
+2017-01-23 17:09:05.445 INFO -  Subject time: 573.8434 sec, approx time ramaining: 0.0000 sec
+2017-01-23 17:09:05.446 INFO -  Iteration 9:
+2017-01-23 17:09:05.446 INFO -    Classify accuracy - train: 0.9688 test: 0.6629
+2017-01-23 17:09:05.447 INFO -    Validate 10-fold  - train: 0.6454 test: 0.5822
+
+2017-01-23 17:09:05.451 INFO -  Processed in: 5139.5510 sec
+2017-01-23 17:09:05.455 INFO -  mean: 0.9414/0.4719
+
+2017-01-23 17:09:05.457 INFO -  mean 10-fold: 0.5211/0.5546
+mean 10-fold: 0.4341/0.3110
+mean 10-fold: 0.6498/0.5643
+mean 10-fold: 0.3235/0.3595
+mean 10-fold: 0.2571/0.2860
+mean 10-fold: 0.3533/0.3522
+mean 10-fold: 0.4792/0.4118
+mean 10-fold: 0.5248/0.4279
+mean 10-fold: 0.6454/0.5822
+
+2017-01-23 17:09:05.470 INFO -  Evaluation step 1/3 done. Elapsed: 5139.8464 sec, approx. time remaining: 10279.6927 sec
+2017-01-23 17:09:05.471 INFO -  Evaluating: plain_signal_features_bilinear
+2017-01-23 17:09:05.773 INFO -  >>> Cache not found, loading signal: E:/data/A01T.gdf.mat
+2017-01-23 17:09:05.945 INFO -    Extracting features...
+2017-01-23 17:09:06.986 INFO -    Removing artifacts from test data...
+2017-01-23 17:09:07.053 INFO -  Evaluating: features - plain_signal_features_bilinear, classifier - classify_matcnn...
+2017-01-23 17:09:07.551 INFO -  >>> Saving to cache: data/plain_signal_features_bilinear_T1.mat
+2017-01-23 17:18:35.370 INFO -  Subject time: 569.6097 sec, approx time ramaining: 4556.8772 sec
+2017-01-23 17:18:35.370 INFO -  Iteration 1:
+2017-01-23 17:18:35.370 INFO -    Classify accuracy - train: 0.6424 test: 0.2776
+2017-01-23 17:18:35.370 INFO -    Validate 10-fold  - train: 0.3090 test: 0.2954
+
+2017-01-23 17:18:35.387 INFO -  >>> Cache not found, loading signal: E:/data/A02T.gdf.mat
+2017-01-23 17:18:35.520 INFO -    Extracting features...
+2017-01-23 17:18:36.181 INFO -    Removing artifacts from test data...
+2017-01-23 17:18:36.216 INFO -  Evaluating: features - plain_signal_features_bilinear, classifier - classify_matcnn...
+2017-01-23 17:18:36.520 INFO -  >>> Saving to cache: data/plain_signal_features_bilinear_T2.mat
+2017-01-23 17:28:03.348 INFO -  Subject time: 567.9630 sec, approx time ramaining: 3975.7410 sec
+2017-01-23 17:28:03.349 INFO -  Iteration 2:
+2017-01-23 17:28:03.350 INFO -    Classify accuracy - train: 0.5556 test: 0.2438
+2017-01-23 17:28:03.350 INFO -    Validate 10-fold  - train: 0.2256 test: 0.2371
+
+2017-01-23 17:28:03.353 INFO -  >>> Cache not found, loading signal: E:/data/A03T.gdf.mat
+2017-01-23 17:28:03.504 INFO -    Extracting features...
+2017-01-23 17:28:04.148 INFO -    Removing artifacts from test data...
+2017-01-23 17:28:04.187 INFO -  Evaluating: features - plain_signal_features_bilinear, classifier - classify_matcnn...
+2017-01-23 17:28:04.447 INFO -  >>> Saving to cache: data/plain_signal_features_bilinear_T3.mat
+2017-01-23 17:37:31.170 INFO -  Subject time: 567.8293 sec, approx time ramaining: 3406.9760 sec
+2017-01-23 17:37:31.170 INFO -  Iteration 3:
+2017-01-23 17:37:31.170 INFO -    Classify accuracy - train: 0.7153 test: 0.4103
+2017-01-23 17:37:31.170 INFO -    Validate 10-fold  - train: 0.3160 test: 0.3181
+
+2017-01-23 17:37:31.187 INFO -  >>> Cache not found, loading signal: E:/data/A04T.gdf.mat
+2017-01-23 17:37:31.353 INFO -    Extracting features...
+2017-01-23 17:37:31.976 INFO -    Removing artifacts from test data...
+2017-01-23 17:37:32.008 INFO -  Evaluating: features - plain_signal_features_bilinear, classifier - classify_matcnn...
+2017-01-23 17:37:32.237 INFO -  >>> Saving to cache: data/plain_signal_features_bilinear_T4.mat
+2017-01-23 17:46:59.719 INFO -  Subject time: 568.5340 sec, approx time ramaining: 2842.6700 sec
+2017-01-23 17:46:59.720 INFO -  Iteration 4:
+2017-01-23 17:46:59.721 INFO -    Classify accuracy - train: 0.5868 test: 0.3026
+2017-01-23 17:46:59.721 INFO -    Validate 10-fold  - train: 0.2988 test: 0.3162
+
+2017-01-23 17:46:59.725 INFO -  >>> Cache not found, loading signal: E:/data/A05T.gdf.mat
+2017-01-23 17:46:59.870 INFO -    Extracting features...
+2017-01-23 17:47:00.493 INFO -    Removing artifacts from test data...
+2017-01-23 17:47:00.526 INFO -  Evaluating: features - plain_signal_features_bilinear, classifier - classify_matcnn...
+2017-01-23 17:47:00.788 INFO -  >>> Saving to cache: data/plain_signal_features_bilinear_T5.mat
+2017-01-23 17:56:27.536 INFO -  Subject time: 567.8130 sec, approx time ramaining: 2271.2521 sec
+2017-01-23 17:56:27.537 INFO -  Iteration 5:
+2017-01-23 17:56:27.537 INFO -    Classify accuracy - train: 0.5000 test: 0.2246
+2017-01-23 17:56:27.537 INFO -    Validate 10-fold  - train: 0.2530 test: 0.2728
+
+2017-01-23 17:56:27.537 INFO -  >>> Cache not found, loading signal: E:/data/A06T.gdf.mat
+2017-01-23 17:56:27.680 INFO -    Extracting features...
+2017-01-23 17:56:28.274 INFO -    Removing artifacts from test data...
+2017-01-23 17:56:28.302 INFO -  Evaluating: features - plain_signal_features_bilinear, classifier - classify_matcnn...
+2017-01-23 17:56:28.536 INFO -  >>> Saving to cache: data/plain_signal_features_bilinear_T6.mat
+2017-01-23 18:05:54.492 INFO -  Subject time: 566.9525 sec, approx time ramaining: 1700.8575 sec
+2017-01-23 18:05:54.493 INFO -  Iteration 6:
+2017-01-23 18:05:54.494 INFO -    Classify accuracy - train: 0.7813 test: 0.3163
+2017-01-23 18:05:54.494 INFO -    Validate 10-fold  - train: 0.3399 test: 0.2604
+
+2017-01-23 18:05:54.497 INFO -  >>> Cache not found, loading signal: E:/data/A07T.gdf.mat
+2017-01-23 18:05:54.637 INFO -    Extracting features...
+2017-01-23 18:05:55.248 INFO -    Removing artifacts from test data...
+2017-01-23 18:05:55.282 INFO -  Evaluating: features - plain_signal_features_bilinear, classifier - classify_matcnn...
+2017-01-23 18:05:55.545 INFO -  >>> Saving to cache: data/plain_signal_features_bilinear_T7.mat
+2017-01-23 18:15:21.402 INFO -  Subject time: 566.9066 sec, approx time ramaining: 1133.8133 sec
+2017-01-23 18:15:21.403 INFO -  Iteration 7:
+2017-01-23 18:15:21.403 INFO -    Classify accuracy - train: 0.6215 test: 0.2310
+2017-01-23 18:15:21.403 INFO -    Validate 10-fold  - train: 0.3018 test: 0.2635
+
+2017-01-23 18:15:21.403 INFO -  >>> Cache not found, loading signal: E:/data/A08T.gdf.mat
+2017-01-23 18:15:21.537 INFO -    Extracting features...
+2017-01-23 18:15:22.157 INFO -    Removing artifacts from test data...
+2017-01-23 18:15:22.190 INFO -  Evaluating: features - plain_signal_features_bilinear, classifier - classify_matcnn...
+2017-01-23 18:15:22.437 INFO -  >>> Saving to cache: data/plain_signal_features_bilinear_T8.mat
+2017-01-23 18:24:48.187 INFO -  Subject time: 566.7831 sec, approx time ramaining: 566.7831 sec
+2017-01-23 18:24:48.187 INFO -  Iteration 8:
+2017-01-23 18:24:48.187 INFO -    Classify accuracy - train: 0.7674 test: 0.5387
+2017-01-23 18:24:48.187 INFO -    Validate 10-fold  - train: 0.5632 test: 0.4245
+
+2017-01-23 18:24:48.187 INFO -  >>> Cache not found, loading signal: E:/data/A09T.gdf.mat
+2017-01-23 18:24:48.337 INFO -    Extracting features...
+2017-01-23 18:24:48.959 INFO -    Removing artifacts from test data...
+2017-01-23 18:24:48.991 INFO -  Evaluating: features - plain_signal_features_bilinear, classifier - classify_matcnn...
+2017-01-23 18:24:49.247 INFO -  >>> Saving to cache: data/plain_signal_features_bilinear_T9.mat
+2017-01-23 18:34:15.302 INFO -  Subject time: 567.1104 sec, approx time ramaining: 0.0000 sec
+2017-01-23 18:34:15.303 INFO -  Iteration 9:
+2017-01-23 18:34:15.303 INFO -    Classify accuracy - train: 0.8854 test: 0.6288
+2017-01-23 18:34:15.303 INFO -    Validate 10-fold  - train: 0.5032 test: 0.6134
+
+2017-01-23 18:34:15.303 INFO -  Processed in: 5109.5360 sec
+2017-01-23 18:34:15.303 INFO -  mean: 0.6728/0.3526
+
+2017-01-23 18:34:15.303 INFO -  mean 10-fold: 0.3090/0.2954
+mean 10-fold: 0.2256/0.2371
+mean 10-fold: 0.3160/0.3181
+mean 10-fold: 0.2988/0.3162
+mean 10-fold: 0.2530/0.2728
+mean 10-fold: 0.3399/0.2604
+mean 10-fold: 0.3018/0.2635
+mean 10-fold: 0.5632/0.4245
+mean 10-fold: 0.5032/0.6134
+
+2017-01-23 18:34:15.336 INFO -  Evaluation step 2/3 done. Elapsed: 5124.8606 sec, approx. time remaining: 5124.8606 sec
+2017-01-23 18:34:15.336 INFO -  Evaluating: plain_signal_features_bicubic
+2017-01-23 18:34:15.554 INFO -  >>> Cache not found, loading signal: E:/data/A01T.gdf.mat
+2017-01-23 18:34:15.671 INFO -    Extracting features...
+2017-01-23 18:34:16.307 INFO -    Removing artifacts from test data...
+2017-01-23 18:34:16.342 INFO -  Evaluating: features - plain_signal_features_bicubic, classifier - classify_matcnn...
+2017-01-23 18:34:16.761 INFO -  >>> Saving to cache: data/plain_signal_features_bicubic_T1.mat
+2017-01-23 18:43:42.553 INFO -  Subject time: 567.0051 sec, approx time ramaining: 4536.0410 sec
+2017-01-23 18:43:42.553 INFO -  Iteration 1:
+2017-01-23 18:43:42.553 INFO -    Classify accuracy - train: 0.7014 test: 0.3096
+2017-01-23 18:43:42.553 INFO -    Validate 10-fold  - train: 0.2849 test: 0.2780
+
+2017-01-23 18:43:42.553 INFO -  >>> Cache not found, loading signal: E:/data/A02T.gdf.mat
+2017-01-23 18:43:42.703 INFO -    Extracting features...
+2017-01-23 18:43:43.321 INFO -    Removing artifacts from test data...
+2017-01-23 18:43:43.355 INFO -  Evaluating: features - plain_signal_features_bicubic, classifier - classify_matcnn...
+2017-01-23 18:43:43.754 INFO -  >>> Saving to cache: data/plain_signal_features_bicubic_T2.mat
+2017-01-23 18:53:10.220 INFO -  Subject time: 567.6592 sec, approx time ramaining: 3973.6143 sec
+2017-01-23 18:53:10.220 INFO -  Iteration 2:
+2017-01-23 18:53:10.220 INFO -    Classify accuracy - train: 0.5868 test: 0.2438
+2017-01-23 18:53:10.220 INFO -    Validate 10-fold  - train: 0.2186 test: 0.2300
+
+2017-01-23 18:53:10.220 INFO -  >>> Cache not found, loading signal: E:/data/A03T.gdf.mat
+2017-01-23 18:53:10.353 INFO -    Extracting features...
+2017-01-23 18:53:10.957 INFO -    Removing artifacts from test data...
+2017-01-23 18:53:10.989 INFO -  Evaluating: features - plain_signal_features_bicubic, classifier - classify_matcnn...
+2017-01-23 18:53:11.392 INFO -  >>> Saving to cache: data/plain_signal_features_bicubic_T3.mat
+2017-01-23 19:02:37.403 INFO -  Subject time: 567.1802 sec, approx time ramaining: 3403.0812 sec
+2017-01-23 19:02:37.403 INFO -  Iteration 3:
+2017-01-23 19:02:37.403 INFO -    Classify accuracy - train: 0.7465 test: 0.3773
+2017-01-23 19:02:37.403 INFO -    Validate 10-fold  - train: 0.3365 test: 0.3069
+
+2017-01-23 19:02:37.403 INFO -  >>> Cache not found, loading signal: E:/data/A04T.gdf.mat
+2017-01-23 19:02:37.554 INFO -    Extracting features...
+2017-01-23 19:02:38.142 INFO -    Removing artifacts from test data...
+2017-01-23 19:02:38.173 INFO -  Evaluating: features - plain_signal_features_bicubic, classifier - classify_matcnn...
+2017-01-23 19:02:38.540 INFO -  >>> Saving to cache: data/plain_signal_features_bicubic_T4.mat
+2017-01-23 19:12:04.220 INFO -  Subject time: 566.8105 sec, approx time ramaining: 2834.0525 sec
+2017-01-23 19:12:04.220 INFO -  Iteration 4:
+2017-01-23 19:12:04.220 INFO -    Classify accuracy - train: 0.6840 test: 0.2851
+2017-01-23 19:12:04.220 INFO -    Validate 10-fold  - train: 0.2776 test: 0.3340
+
+2017-01-23 19:12:04.220 INFO -  >>> Cache not found, loading signal: E:/data/A05T.gdf.mat
+2017-01-23 19:12:04.371 INFO -    Extracting features...
+2017-01-23 19:12:04.988 INFO -    Removing artifacts from test data...
+2017-01-23 19:12:05.021 INFO -  Evaluating: features - plain_signal_features_bicubic, classifier - classify_matcnn...
+2017-01-23 19:12:05.417 INFO -  >>> Saving to cache: data/plain_signal_features_bicubic_T5.mat
+2017-01-23 19:21:32.721 INFO -  Subject time: 568.4946 sec, approx time ramaining: 2273.9783 sec
+2017-01-23 19:21:32.721 INFO -  Iteration 5:
+2017-01-23 19:21:32.721 INFO -    Classify accuracy - train: 0.5625 test: 0.2174
+2017-01-23 19:21:32.721 INFO -    Validate 10-fold  - train: 0.2773 test: 0.2507
+
+2017-01-23 19:21:32.721 INFO -  >>> Cache not found, loading signal: E:/data/A06T.gdf.mat
+2017-01-23 19:21:32.871 INFO -    Extracting features...
+2017-01-23 19:21:33.490 INFO -    Removing artifacts from test data...
+2017-01-23 19:21:33.520 INFO -  Evaluating: features - plain_signal_features_bicubic, classifier - classify_matcnn...
+2017-01-23 19:21:33.874 INFO -  >>> Saving to cache: data/plain_signal_features_bicubic_T6.mat
+2017-01-23 19:30:59.328 INFO -  Subject time: 566.6133 sec, approx time ramaining: 1699.8398 sec
+2017-01-23 19:30:59.328 INFO -  Iteration 6:
+2017-01-23 19:30:59.328 INFO -    Classify accuracy - train: 0.8715 test: 0.3116
+2017-01-23 19:30:59.328 INFO -    Validate 10-fold  - train: 0.3047 test: 0.2561
+
+2017-01-23 19:30:59.344 INFO -  >>> Cache not found, loading signal: E:/data/A07T.gdf.mat
+2017-01-23 19:30:59.491 INFO -    Extracting features...
+2017-01-23 19:31:00.130 INFO -    Removing artifacts from test data...
+2017-01-23 19:31:00.161 INFO -  Evaluating: features - plain_signal_features_bicubic, classifier - classify_matcnn...
+2017-01-23 19:31:00.571 INFO -  >>> Saving to cache: data/plain_signal_features_bicubic_T7.mat
+2017-01-23 19:40:29.122 INFO -  Subject time: 569.7927 sec, approx time ramaining: 1139.5855 sec
+2017-01-23 19:40:29.138 INFO -  Iteration 7:
+2017-01-23 19:40:29.138 INFO -    Classify accuracy - train: 0.6806 test: 0.2527
+2017-01-23 19:40:29.138 INFO -    Validate 10-fold  - train: 0.2841 test: 0.2418
+
+2017-01-23 19:40:29.153 INFO -  >>> Cache not found, loading signal: E:/data/A08T.gdf.mat
+2017-01-23 19:40:29.307 INFO -    Extracting features...
+2017-01-23 19:40:29.908 INFO -    Removing artifacts from test data...
+2017-01-23 19:40:29.940 INFO -  Evaluating: features - plain_signal_features_bicubic, classifier - classify_matcnn...
+2017-01-23 19:40:30.325 INFO -  >>> Saving to cache: data/plain_signal_features_bicubic_T8.mat
+2017-01-23 19:49:57.154 INFO -  Subject time: 568.0133 sec, approx time ramaining: 568.0133 sec
+2017-01-23 19:49:57.154 INFO -  Iteration 8:
+2017-01-23 19:49:57.154 INFO -    Classify accuracy - train: 0.8160 test: 0.4649
+2017-01-23 19:49:57.154 INFO -    Validate 10-fold  - train: 0.5140 test: 0.4097
+
+2017-01-23 19:49:57.170 INFO -  >>> Cache not found, loading signal: E:/data/A09T.gdf.mat
+2017-01-23 19:49:57.324 INFO -    Extracting features...
+2017-01-23 19:49:57.947 INFO -    Removing artifacts from test data...
+2017-01-23 19:49:57.978 INFO -  Evaluating: features - plain_signal_features_bicubic, classifier - classify_matcnn...
+2017-01-23 19:49:58.379 INFO -  >>> Saving to cache: data/plain_signal_features_bicubic_T9.mat
+2017-01-23 19:59:27.125 INFO -  Subject time: 569.9577 sec, approx time ramaining: 0.0000 sec
+2017-01-23 19:59:27.126 INFO -  Iteration 9:
+2017-01-23 19:59:27.126 INFO -    Classify accuracy - train: 0.8889 test: 0.5417
+2017-01-23 19:59:27.127 INFO -    Validate 10-fold  - train: 0.4585 test: 0.5615
+
+2017-01-23 19:59:27.127 INFO -  Processed in: 5111.5722 sec
+2017-01-23 19:59:27.127 INFO -  mean: 0.7265/0.3338
+
+2017-01-23 19:59:27.127 INFO -  mean 10-fold: 0.2849/0.2780
+mean 10-fold: 0.2186/0.2300
+mean 10-fold: 0.3365/0.3069
+mean 10-fold: 0.2776/0.3340
+mean 10-fold: 0.2773/0.2507
+mean 10-fold: 0.3047/0.2561
+mean 10-fold: 0.2841/0.2418
+mean 10-fold: 0.5140/0.4097
+mean 10-fold: 0.4585/0.5615
+
+2017-01-23 19:59:27.158 INFO -  Evaluation step 3/3 done. Elapsed: 5118.3367 sec, approx. time remaining: 0.0000 sec
+2017-01-23 19:59:27.158 INFO -  Done. Total time: 15361.5409 sec

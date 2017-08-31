@@ -1,0 +1,848 @@
+2017-01-22 17:37:52.271 INFO -  Begin batch = 10 evaluation
+2017-01-22 17:37:52.613 INFO -  >>> Loading from cache scheduled
+2017-01-22 17:37:52.619 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 17:37:52.632 INFO -  >>> Using cache: data/mean_signal_power_T1.mat
+2017-01-22 17:40:20.046 INFO -  Subject time: 147.4311 sec, approx time ramaining: 1179.4485 sec
+2017-01-22 17:40:20.079 INFO -  Iteration 1:
+2017-01-22 17:40:20.081 INFO -    Classify accuracy - train: 0.9132 test: 0.7473
+2017-01-22 17:40:20.087 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 17:40:20.094 INFO -  >>> Loading from cache scheduled
+2017-01-22 17:40:20.097 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 17:40:20.101 INFO -  >>> Using cache: data/mean_signal_power_T2.mat
+2017-01-22 17:42:52.285 INFO -  Subject time: 152.1964 sec, approx time ramaining: 1065.3748 sec
+2017-01-22 17:42:52.287 INFO -  Iteration 2:
+2017-01-22 17:42:52.288 INFO -    Classify accuracy - train: 0.8646 test: 0.3498
+2017-01-22 17:42:52.290 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 17:42:52.294 INFO -  >>> Loading from cache scheduled
+2017-01-22 17:42:52.295 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 17:42:52.298 INFO -  >>> Using cache: data/mean_signal_power_T3.mat
+2017-01-22 17:45:21.671 INFO -  Subject time: 149.3829 sec, approx time ramaining: 896.2975 sec
+2017-01-22 17:45:21.671 INFO -  Iteration 3:
+2017-01-22 17:45:21.671 INFO -    Classify accuracy - train: 0.9861 test: 0.8388
+2017-01-22 17:45:21.671 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 17:45:21.671 INFO -  >>> Loading from cache scheduled
+2017-01-22 17:45:21.671 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 17:45:21.687 INFO -  >>> Using cache: data/mean_signal_power_T4.mat
+2017-01-22 17:47:36.879 INFO -  Subject time: 135.1968 sec, approx time ramaining: 675.9838 sec
+2017-01-22 17:47:36.880 INFO -  Iteration 4:
+2017-01-22 17:47:36.881 INFO -    Classify accuracy - train: 0.7847 test: 0.5746
+2017-01-22 17:47:36.882 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 17:47:36.884 INFO -  >>> Loading from cache scheduled
+2017-01-22 17:47:36.884 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 17:47:36.884 INFO -  >>> Using cache: data/mean_signal_power_T5.mat
+2017-01-22 17:49:50.724 INFO -  Subject time: 133.8401 sec, approx time ramaining: 535.3606 sec
+2017-01-22 17:49:50.724 INFO -  Iteration 5:
+2017-01-22 17:49:50.724 INFO -    Classify accuracy - train: 0.6042 test: 0.2754
+2017-01-22 17:49:50.724 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 17:49:50.724 INFO -  >>> Loading from cache scheduled
+2017-01-22 17:49:50.724 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 17:49:50.724 INFO -  >>> Using cache: data/mean_signal_power_T6.mat
+2017-01-22 17:52:04.614 INFO -  Subject time: 133.8971 sec, approx time ramaining: 401.6913 sec
+2017-01-22 17:52:04.630 INFO -  Iteration 6:
+2017-01-22 17:52:04.630 INFO -    Classify accuracy - train: 0.6771 test: 0.3860
+2017-01-22 17:52:04.630 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 17:52:04.630 INFO -  >>> Loading from cache scheduled
+2017-01-22 17:52:04.630 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 17:52:04.630 INFO -  >>> Using cache: data/mean_signal_power_T7.mat
+2017-01-22 17:54:24.120 INFO -  Subject time: 139.5017 sec, approx time ramaining: 279.0033 sec
+2017-01-22 17:54:24.135 INFO -  Iteration 7:
+2017-01-22 17:54:24.135 INFO -    Classify accuracy - train: 0.9375 test: 0.8159
+2017-01-22 17:54:24.135 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 17:54:24.135 INFO -  >>> Loading from cache scheduled
+2017-01-22 17:54:24.135 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 17:54:24.135 INFO -  >>> Using cache: data/mean_signal_power_T8.mat
+2017-01-22 17:56:41.667 INFO -  Subject time: 137.5353 sec, approx time ramaining: 137.5353 sec
+2017-01-22 17:56:41.667 INFO -  Iteration 8:
+2017-01-22 17:56:41.667 INFO -    Classify accuracy - train: 0.8993 test: 0.6015
+2017-01-22 17:56:41.667 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 17:56:41.667 INFO -  >>> Loading from cache scheduled
+2017-01-22 17:56:41.667 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 17:56:41.667 INFO -  >>> Using cache: data/mean_signal_power_T9.mat
+2017-01-22 17:59:02.413 INFO -  Subject time: 140.7376 sec, approx time ramaining: 0.0000 sec
+2017-01-22 17:59:02.414 INFO -  Iteration 9:
+2017-01-22 17:59:02.414 INFO -    Classify accuracy - train: 0.9340 test: 0.7311
+2017-01-22 17:59:02.415 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 17:59:02.416 INFO -  Processed in: 1269.8054 sec
+2017-01-22 17:59:02.419 INFO -  mean: 0.8445/0.5912
+
+2017-01-22 17:59:02.428 INFO -  Evaluation step 1/11 done. Elapsed: 1270.1757 sec, approx. time remaining: 12701.7571 sec
+2017-01-22 17:59:02.431 INFO -  Begin batch = 20 evaluation
+2017-01-22 17:59:02.873 INFO -  >>> Loading from cache scheduled
+2017-01-22 17:59:02.874 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 17:59:03.055 INFO -  >>> Using cache: data/mean_signal_power_T1.mat
+2017-01-22 18:00:20.388 INFO -  Subject time: 77.5245 sec, approx time ramaining: 620.1957 sec
+2017-01-22 18:00:20.388 INFO -  Iteration 1:
+2017-01-22 18:00:20.388 INFO -    Classify accuracy - train: 0.9097 test: 0.7616
+2017-01-22 18:00:20.388 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:00:20.388 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:00:20.388 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:00:20.388 INFO -  >>> Using cache: data/mean_signal_power_T2.mat
+2017-01-22 18:01:36.738 INFO -  Subject time: 76.3430 sec, approx time ramaining: 534.4013 sec
+2017-01-22 18:01:36.738 INFO -  Iteration 2:
+2017-01-22 18:01:36.738 INFO -    Classify accuracy - train: 0.8194 test: 0.4099
+2017-01-22 18:01:36.738 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:01:36.738 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:01:36.738 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:01:36.738 INFO -  >>> Using cache: data/mean_signal_power_T3.mat
+2017-01-22 18:02:54.355 INFO -  Subject time: 77.6222 sec, approx time ramaining: 465.7332 sec
+2017-01-22 18:02:54.355 INFO -  Iteration 3:
+2017-01-22 18:02:54.355 INFO -    Classify accuracy - train: 0.9722 test: 0.8388
+2017-01-22 18:02:54.355 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:02:54.371 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:02:54.371 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:02:54.371 INFO -  >>> Using cache: data/mean_signal_power_T4.mat
+2017-01-22 18:04:11.393 INFO -  Subject time: 77.0217 sec, approx time ramaining: 385.1085 sec
+2017-01-22 18:04:11.394 INFO -  Iteration 4:
+2017-01-22 18:04:11.394 INFO -    Classify accuracy - train: 0.7500 test: 0.6184
+2017-01-22 18:04:11.395 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:04:11.397 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:04:11.397 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:04:11.398 INFO -  >>> Using cache: data/mean_signal_power_T5.mat
+2017-01-22 18:05:28.268 INFO -  Subject time: 76.8727 sec, approx time ramaining: 307.4907 sec
+2017-01-22 18:05:28.269 INFO -  Iteration 5:
+2017-01-22 18:05:28.270 INFO -    Classify accuracy - train: 0.5486 test: 0.2790
+2017-01-22 18:05:28.271 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:05:28.271 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:05:28.271 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:05:28.271 INFO -  >>> Using cache: data/mean_signal_power_T6.mat
+2017-01-22 18:06:44.088 INFO -  Subject time: 75.8177 sec, approx time ramaining: 227.4532 sec
+2017-01-22 18:06:44.088 INFO -  Iteration 6:
+2017-01-22 18:06:44.088 INFO -    Classify accuracy - train: 0.7049 test: 0.4140
+2017-01-22 18:06:44.088 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:06:44.088 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:06:44.088 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:06:44.088 INFO -  >>> Using cache: data/mean_signal_power_T7.mat
+2017-01-22 18:08:01.005 INFO -  Subject time: 76.9239 sec, approx time ramaining: 153.8478 sec
+2017-01-22 18:08:01.005 INFO -  Iteration 7:
+2017-01-22 18:08:01.005 INFO -    Classify accuracy - train: 0.9236 test: 0.8267
+2017-01-22 18:08:01.005 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:08:01.021 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:08:01.021 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:08:01.021 INFO -  >>> Using cache: data/mean_signal_power_T8.mat
+2017-01-22 18:09:16.821 INFO -  Subject time: 75.8080 sec, approx time ramaining: 75.8080 sec
+2017-01-22 18:09:16.821 INFO -  Iteration 8:
+2017-01-22 18:09:16.821 INFO -    Classify accuracy - train: 0.8750 test: 0.6458
+2017-01-22 18:09:16.821 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:09:16.821 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:09:16.821 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:09:16.821 INFO -  >>> Using cache: data/mean_signal_power_T9.mat
+2017-01-22 18:10:33.672 INFO -  Subject time: 76.8513 sec, approx time ramaining: 0.0000 sec
+2017-01-22 18:10:33.672 INFO -  Iteration 9:
+2017-01-22 18:10:33.672 INFO -    Classify accuracy - train: 0.9132 test: 0.7538
+2017-01-22 18:10:33.672 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:10:33.672 INFO -  Processed in: 690.8147 sec
+2017-01-22 18:10:33.672 INFO -  mean: 0.8241/0.6164
+
+2017-01-22 18:10:33.688 INFO -  Evaluation step 2/11 done. Elapsed: 980.7207 sec, approx. time remaining: 8826.4865 sec
+2017-01-22 18:10:33.688 INFO -  Begin batch = 30 evaluation
+2017-01-22 18:10:33.982 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:10:33.983 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:10:33.984 INFO -  >>> Using cache: data/mean_signal_power_T1.mat
+2017-01-22 18:11:35.454 INFO -  Subject time: 61.4789 sec, approx time ramaining: 491.8308 sec
+2017-01-22 18:11:35.454 INFO -  Iteration 1:
+2017-01-22 18:11:35.454 INFO -    Classify accuracy - train: 0.8958 test: 0.7687
+2017-01-22 18:11:35.454 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:11:35.454 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:11:35.454 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:11:35.454 INFO -  >>> Using cache: data/mean_signal_power_T2.mat
+2017-01-22 18:12:36.687 INFO -  Subject time: 61.2244 sec, approx time ramaining: 428.5708 sec
+2017-01-22 18:12:36.688 INFO -  Iteration 2:
+2017-01-22 18:12:36.689 INFO -    Classify accuracy - train: 0.7882 test: 0.4735
+2017-01-22 18:12:36.690 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:12:36.690 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:12:36.692 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:12:36.693 INFO -  >>> Using cache: data/mean_signal_power_T3.mat
+2017-01-22 18:13:38.438 INFO -  Subject time: 61.7500 sec, approx time ramaining: 370.4997 sec
+2017-01-22 18:13:38.438 INFO -  Iteration 3:
+2017-01-22 18:13:38.438 INFO -    Classify accuracy - train: 0.9514 test: 0.8352
+2017-01-22 18:13:38.438 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:13:38.438 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:13:38.438 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:13:38.438 INFO -  >>> Using cache: data/mean_signal_power_T4.mat
+2017-01-22 18:14:38.337 INFO -  Subject time: 59.8926 sec, approx time ramaining: 299.4630 sec
+2017-01-22 18:14:38.337 INFO -  Iteration 4:
+2017-01-22 18:14:38.337 INFO -    Classify accuracy - train: 0.7083 test: 0.6491
+2017-01-22 18:14:38.337 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:14:38.337 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:14:38.337 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:14:38.337 INFO -  >>> Using cache: data/mean_signal_power_T5.mat
+2017-01-22 18:15:37.954 INFO -  Subject time: 59.6130 sec, approx time ramaining: 238.4521 sec
+2017-01-22 18:15:37.954 INFO -  Iteration 5:
+2017-01-22 18:15:37.954 INFO -    Classify accuracy - train: 0.4688 test: 0.3080
+2017-01-22 18:15:37.954 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:15:37.954 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:15:37.954 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:15:37.954 INFO -  >>> Using cache: data/mean_signal_power_T6.mat
+2017-01-22 18:16:37.838 INFO -  Subject time: 59.8883 sec, approx time ramaining: 179.6650 sec
+2017-01-22 18:16:37.838 INFO -  Iteration 6:
+2017-01-22 18:16:37.838 INFO -    Classify accuracy - train: 0.6597 test: 0.4000
+2017-01-22 18:16:37.838 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:16:37.838 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:16:37.838 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:16:37.838 INFO -  >>> Using cache: data/mean_signal_power_T7.mat
+2017-01-22 18:17:38.387 INFO -  Subject time: 60.5512 sec, approx time ramaining: 121.1023 sec
+2017-01-22 18:17:38.387 INFO -  Iteration 7:
+2017-01-22 18:17:38.387 INFO -    Classify accuracy - train: 0.8854 test: 0.8123
+2017-01-22 18:17:38.387 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:17:38.387 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:17:38.403 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:17:38.403 INFO -  >>> Using cache: data/mean_signal_power_T8.mat
+2017-01-22 18:18:39.271 INFO -  Subject time: 60.8834 sec, approx time ramaining: 60.8834 sec
+2017-01-22 18:18:39.271 INFO -  Iteration 8:
+2017-01-22 18:18:39.271 INFO -    Classify accuracy - train: 0.8194 test: 0.6494
+2017-01-22 18:18:39.288 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:18:39.288 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:18:39.288 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:18:39.288 INFO -  >>> Using cache: data/mean_signal_power_T9.mat
+2017-01-22 18:19:42.138 INFO -  Subject time: 62.8486 sec, approx time ramaining: 0.0000 sec
+2017-01-22 18:19:42.138 INFO -  Iteration 9:
+2017-01-22 18:19:42.139 INFO -    Classify accuracy - train: 0.8993 test: 0.7689
+2017-01-22 18:19:42.140 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:19:42.141 INFO -  Processed in: 548.1602 sec
+2017-01-22 18:19:42.142 INFO -  mean: 0.7863/0.6295
+
+2017-01-22 18:19:42.149 INFO -  Evaluation step 3/11 done. Elapsed: 764.5867 sec, approx. time remaining: 6116.6935 sec
+2017-01-22 18:19:42.153 INFO -  Begin batch = 50 evaluation
+2017-01-22 18:19:42.440 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:19:42.441 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:19:42.442 INFO -  >>> Using cache: data/mean_signal_power_T1.mat
+2017-01-22 18:20:32.521 INFO -  Subject time: 50.0864 sec, approx time ramaining: 400.6911 sec
+2017-01-22 18:20:32.521 INFO -  Iteration 1:
+2017-01-22 18:20:32.521 INFO -    Classify accuracy - train: 0.8889 test: 0.7794
+2017-01-22 18:20:32.521 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:20:32.521 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:20:32.521 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:20:32.521 INFO -  >>> Using cache: data/mean_signal_power_T2.mat
+2017-01-22 18:21:22.138 INFO -  Subject time: 49.6120 sec, approx time ramaining: 347.2841 sec
+2017-01-22 18:21:22.138 INFO -  Iteration 2:
+2017-01-22 18:21:22.138 INFO -    Classify accuracy - train: 0.7500 test: 0.4841
+2017-01-22 18:21:22.138 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:21:22.138 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:21:22.138 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:21:22.138 INFO -  >>> Using cache: data/mean_signal_power_T3.mat
+2017-01-22 18:22:12.568 INFO -  Subject time: 50.4248 sec, approx time ramaining: 302.5485 sec
+2017-01-22 18:22:12.569 INFO -  Iteration 3:
+2017-01-22 18:22:12.570 INFO -    Classify accuracy - train: 0.9271 test: 0.8352
+2017-01-22 18:22:12.571 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:22:12.571 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:22:12.571 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:22:12.571 INFO -  >>> Using cache: data/mean_signal_power_T4.mat
+2017-01-22 18:23:02.207 INFO -  Subject time: 49.6336 sec, approx time ramaining: 248.1680 sec
+2017-01-22 18:23:02.207 INFO -  Iteration 4:
+2017-01-22 18:23:02.208 INFO -    Classify accuracy - train: 0.6597 test: 0.6579
+2017-01-22 18:23:02.208 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:23:02.211 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:23:02.212 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:23:02.214 INFO -  >>> Using cache: data/mean_signal_power_T5.mat
+2017-01-22 18:23:52.390 INFO -  Subject time: 50.1816 sec, approx time ramaining: 200.7263 sec
+2017-01-22 18:23:52.391 INFO -  Iteration 5:
+2017-01-22 18:23:52.392 INFO -    Classify accuracy - train: 0.4132 test: 0.3297
+2017-01-22 18:23:52.392 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:23:52.394 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:23:52.395 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:23:52.396 INFO -  >>> Using cache: data/mean_signal_power_T6.mat
+2017-01-22 18:24:42.856 INFO -  Subject time: 50.4620 sec, approx time ramaining: 151.3860 sec
+2017-01-22 18:24:42.856 INFO -  Iteration 6:
+2017-01-22 18:24:42.857 INFO -    Classify accuracy - train: 0.6215 test: 0.4698
+2017-01-22 18:24:42.857 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:24:42.860 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:24:42.860 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:24:42.861 INFO -  >>> Using cache: data/mean_signal_power_T7.mat
+2017-01-22 18:25:33.656 INFO -  Subject time: 50.7967 sec, approx time ramaining: 101.5934 sec
+2017-01-22 18:25:33.658 INFO -  Iteration 7:
+2017-01-22 18:25:33.658 INFO -    Classify accuracy - train: 0.8403 test: 0.8375
+2017-01-22 18:25:33.659 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:25:33.662 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:25:33.663 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:25:33.663 INFO -  >>> Using cache: data/mean_signal_power_T8.mat
+2017-01-22 18:26:24.096 INFO -  Subject time: 50.4350 sec, approx time ramaining: 50.4350 sec
+2017-01-22 18:26:24.097 INFO -  Iteration 8:
+2017-01-22 18:26:24.097 INFO -    Classify accuracy - train: 0.7951 test: 0.6679
+2017-01-22 18:26:24.098 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:26:24.100 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:26:24.101 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:26:24.103 INFO -  >>> Using cache: data/mean_signal_power_T9.mat
+2017-01-22 18:27:15.345 INFO -  Subject time: 51.2465 sec, approx time ramaining: 0.0000 sec
+2017-01-22 18:27:15.346 INFO -  Iteration 9:
+2017-01-22 18:27:15.346 INFO -    Classify accuracy - train: 0.8576 test: 0.7765
+2017-01-22 18:27:15.347 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:27:15.348 INFO -  Processed in: 452.9101 sec
+2017-01-22 18:27:15.349 INFO -  mean: 0.7504/0.6487
+
+2017-01-22 18:27:15.357 INFO -  Evaluation step 4/11 done. Elapsed: 608.8969 sec, approx. time remaining: 4262.2783 sec
+2017-01-22 18:27:15.374 INFO -  Begin batch = 75 evaluation
+2017-01-22 18:27:15.688 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:27:15.688 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:27:15.691 INFO -  >>> Using cache: data/mean_signal_power_T1.mat
+2017-01-22 18:27:44.872 INFO -  Subject time: 29.1840 sec, approx time ramaining: 233.4717 sec
+2017-01-22 18:27:44.874 INFO -  Iteration 1:
+2017-01-22 18:27:44.875 INFO -    Classify accuracy - train: 0.8750 test: 0.7900
+2017-01-22 18:27:44.877 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:27:44.880 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:27:44.881 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:27:44.883 INFO -  >>> Using cache: data/mean_signal_power_T2.mat
+2017-01-22 18:28:13.642 INFO -  Subject time: 28.7638 sec, approx time ramaining: 201.3468 sec
+2017-01-22 18:28:13.643 INFO -  Iteration 2:
+2017-01-22 18:28:13.643 INFO -    Classify accuracy - train: 0.7396 test: 0.5053
+2017-01-22 18:28:13.644 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:28:13.647 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:28:13.648 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:28:13.649 INFO -  >>> Using cache: data/mean_signal_power_T3.mat
+2017-01-22 18:28:42.607 INFO -  Subject time: 28.9615 sec, approx time ramaining: 173.7690 sec
+2017-01-22 18:28:42.608 INFO -  Iteration 3:
+2017-01-22 18:28:42.609 INFO -    Classify accuracy - train: 0.9063 test: 0.8498
+2017-01-22 18:28:42.610 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:28:42.613 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:28:42.614 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:28:42.616 INFO -  >>> Using cache: data/mean_signal_power_T4.mat
+2017-01-22 18:29:10.987 INFO -  Subject time: 28.3754 sec, approx time ramaining: 141.8772 sec
+2017-01-22 18:29:10.988 INFO -  Iteration 4:
+2017-01-22 18:29:10.988 INFO -    Classify accuracy - train: 0.6458 test: 0.6272
+2017-01-22 18:29:10.989 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:29:10.992 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:29:10.993 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:29:10.994 INFO -  >>> Using cache: data/mean_signal_power_T5.mat
+2017-01-22 18:29:39.342 INFO -  Subject time: 28.3514 sec, approx time ramaining: 113.4054 sec
+2017-01-22 18:29:39.343 INFO -  Iteration 5:
+2017-01-22 18:29:39.343 INFO -    Classify accuracy - train: 0.4028 test: 0.3080
+2017-01-22 18:29:39.344 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:29:39.346 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:29:39.348 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:29:39.350 INFO -  >>> Using cache: data/mean_signal_power_T6.mat
+2017-01-22 18:30:07.271 INFO -  Subject time: 27.9271 sec, approx time ramaining: 83.7813 sec
+2017-01-22 18:30:07.271 INFO -  Iteration 6:
+2017-01-22 18:30:07.271 INFO -    Classify accuracy - train: 0.5799 test: 0.4744
+2017-01-22 18:30:07.271 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:30:07.271 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:30:07.271 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:30:07.271 INFO -  >>> Using cache: data/mean_signal_power_T7.mat
+2017-01-22 18:30:35.537 INFO -  Subject time: 28.2611 sec, approx time ramaining: 56.5222 sec
+2017-01-22 18:30:35.538 INFO -  Iteration 7:
+2017-01-22 18:30:35.538 INFO -    Classify accuracy - train: 0.8403 test: 0.8303
+2017-01-22 18:30:35.538 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:30:35.538 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:30:35.538 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:30:35.538 INFO -  >>> Using cache: data/mean_signal_power_T8.mat
+2017-01-22 18:31:03.921 INFO -  Subject time: 28.3937 sec, approx time ramaining: 28.3937 sec
+2017-01-22 18:31:03.921 INFO -  Iteration 8:
+2017-01-22 18:31:03.921 INFO -    Classify accuracy - train: 0.7951 test: 0.6494
+2017-01-22 18:31:03.921 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:31:03.938 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:31:03.938 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:31:03.938 INFO -  >>> Using cache: data/mean_signal_power_T9.mat
+2017-01-22 18:31:32.751 INFO -  Subject time: 28.8138 sec, approx time ramaining: 0.0000 sec
+2017-01-22 18:31:32.752 INFO -  Iteration 9:
+2017-01-22 18:31:32.752 INFO -    Classify accuracy - train: 0.8368 test: 0.7992
+2017-01-22 18:31:32.753 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:31:32.754 INFO -  Processed in: 257.0674 sec
+2017-01-22 18:31:32.754 INFO -  mean: 0.7357/0.6482
+
+2017-01-22 18:31:32.765 INFO -  Evaluation step 5/11 done. Elapsed: 433.1512 sec, approx. time remaining: 2598.9071 sec
+2017-01-22 18:31:32.768 INFO -  Begin batch = 100 evaluation
+2017-01-22 18:31:33.059 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:31:33.059 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:31:33.061 INFO -  >>> Using cache: data/mean_signal_power_T1.mat
+2017-01-22 18:31:57.797 INFO -  Subject time: 24.7389 sec, approx time ramaining: 197.9111 sec
+2017-01-22 18:31:57.798 INFO -  Iteration 1:
+2017-01-22 18:31:57.799 INFO -    Classify accuracy - train: 0.8576 test: 0.8078
+2017-01-22 18:31:57.799 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:31:57.801 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:31:57.802 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:31:57.803 INFO -  >>> Using cache: data/mean_signal_power_T2.mat
+2017-01-22 18:32:22.138 INFO -  Subject time: 24.3478 sec, approx time ramaining: 170.4348 sec
+2017-01-22 18:32:22.138 INFO -  Iteration 2:
+2017-01-22 18:32:22.138 INFO -    Classify accuracy - train: 0.7014 test: 0.4982
+2017-01-22 18:32:22.138 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:32:22.138 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:32:22.138 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:32:22.154 INFO -  >>> Using cache: data/mean_signal_power_T3.mat
+2017-01-22 18:32:46.488 INFO -  Subject time: 24.3377 sec, approx time ramaining: 146.0260 sec
+2017-01-22 18:32:46.488 INFO -  Iteration 3:
+2017-01-22 18:32:46.488 INFO -    Classify accuracy - train: 0.8958 test: 0.8462
+2017-01-22 18:32:46.488 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:32:46.488 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:32:46.488 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:32:46.488 INFO -  >>> Using cache: data/mean_signal_power_T4.mat
+2017-01-22 18:33:10.577 INFO -  Subject time: 24.0863 sec, approx time ramaining: 120.4314 sec
+2017-01-22 18:33:10.577 INFO -  Iteration 4:
+2017-01-22 18:33:10.577 INFO -    Classify accuracy - train: 0.6285 test: 0.6272
+2017-01-22 18:33:10.577 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:33:10.577 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:33:10.577 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:33:10.577 INFO -  >>> Using cache: data/mean_signal_power_T5.mat
+2017-01-22 18:33:35.109 INFO -  Subject time: 24.5279 sec, approx time ramaining: 98.1114 sec
+2017-01-22 18:33:35.110 INFO -  Iteration 5:
+2017-01-22 18:33:35.110 INFO -    Classify accuracy - train: 0.3785 test: 0.3225
+2017-01-22 18:33:35.111 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:33:35.113 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:33:35.114 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:33:35.114 INFO -  >>> Using cache: data/mean_signal_power_T6.mat
+2017-01-22 18:33:59.237 INFO -  Subject time: 24.1340 sec, approx time ramaining: 72.4019 sec
+2017-01-22 18:33:59.237 INFO -  Iteration 6:
+2017-01-22 18:33:59.237 INFO -    Classify accuracy - train: 0.5660 test: 0.5023
+2017-01-22 18:33:59.237 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:33:59.237 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:33:59.237 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:33:59.254 INFO -  >>> Using cache: data/mean_signal_power_T7.mat
+2017-01-22 18:34:23.874 INFO -  Subject time: 24.6241 sec, approx time ramaining: 49.2483 sec
+2017-01-22 18:34:23.875 INFO -  Iteration 7:
+2017-01-22 18:34:23.875 INFO -    Classify accuracy - train: 0.8472 test: 0.8412
+2017-01-22 18:34:23.876 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:34:23.878 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:34:23.878 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:34:23.879 INFO -  >>> Using cache: data/mean_signal_power_T8.mat
+2017-01-22 18:34:48.594 INFO -  Subject time: 24.7173 sec, approx time ramaining: 24.7173 sec
+2017-01-22 18:34:48.595 INFO -  Iteration 8:
+2017-01-22 18:34:48.595 INFO -    Classify accuracy - train: 0.7535 test: 0.6494
+2017-01-22 18:34:48.596 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:34:48.598 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:34:48.599 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:34:48.600 INFO -  >>> Using cache: data/mean_signal_power_T9.mat
+2017-01-22 18:35:13.337 INFO -  Subject time: 24.7478 sec, approx time ramaining: 0.0000 sec
+2017-01-22 18:35:13.337 INFO -  Iteration 9:
+2017-01-22 18:35:13.337 INFO -    Classify accuracy - train: 0.8264 test: 0.7803
+2017-01-22 18:35:13.337 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:35:13.337 INFO -  Processed in: 220.2901 sec
+2017-01-22 18:35:13.337 INFO -  mean: 0.7172/0.6528
+
+2017-01-22 18:35:13.356 INFO -  Evaluation step 6/11 done. Elapsed: 326.8708 sec, approx. time remaining: 1634.3539 sec
+2017-01-22 18:35:13.358 INFO -  Begin batch = 150 evaluation
+2017-01-22 18:35:13.679 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:35:13.679 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:35:13.680 INFO -  >>> Using cache: data/mean_signal_power_T1.mat
+2017-01-22 18:35:27.071 INFO -  Subject time: 13.3960 sec, approx time ramaining: 107.1676 sec
+2017-01-22 18:35:27.071 INFO -  Iteration 1:
+2017-01-22 18:35:27.071 INFO -    Classify accuracy - train: 0.8194 test: 0.8185
+2017-01-22 18:35:27.071 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:35:27.071 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:35:27.071 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:35:27.071 INFO -  >>> Using cache: data/mean_signal_power_T2.mat
+2017-01-22 18:35:40.464 INFO -  Subject time: 13.3866 sec, approx time ramaining: 93.7064 sec
+2017-01-22 18:35:40.464 INFO -  Iteration 2:
+2017-01-22 18:35:40.465 INFO -    Classify accuracy - train: 0.6771 test: 0.5018
+2017-01-22 18:35:40.466 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:35:40.468 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:35:40.469 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:35:40.470 INFO -  >>> Using cache: data/mean_signal_power_T3.mat
+2017-01-22 18:35:53.354 INFO -  Subject time: 12.9011 sec, approx time ramaining: 77.4063 sec
+2017-01-22 18:35:53.354 INFO -  Iteration 3:
+2017-01-22 18:35:53.369 INFO -    Classify accuracy - train: 0.8924 test: 0.8352
+2017-01-22 18:35:53.370 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:35:53.373 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:35:53.374 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:35:53.376 INFO -  >>> Using cache: data/mean_signal_power_T4.mat
+2017-01-22 18:36:06.138 INFO -  Subject time: 12.7744 sec, approx time ramaining: 63.8721 sec
+2017-01-22 18:36:06.138 INFO -  Iteration 4:
+2017-01-22 18:36:06.138 INFO -    Classify accuracy - train: 0.6111 test: 0.5921
+2017-01-22 18:36:06.138 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:36:06.138 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:36:06.138 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:36:06.138 INFO -  >>> Using cache: data/mean_signal_power_T5.mat
+2017-01-22 18:36:18.854 INFO -  Subject time: 12.7069 sec, approx time ramaining: 50.8275 sec
+2017-01-22 18:36:18.854 INFO -  Iteration 5:
+2017-01-22 18:36:18.854 INFO -    Classify accuracy - train: 0.3090 test: 0.3152
+2017-01-22 18:36:18.854 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:36:18.854 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:36:18.854 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:36:18.854 INFO -  >>> Using cache: data/mean_signal_power_T6.mat
+2017-01-22 18:36:31.604 INFO -  Subject time: 12.7526 sec, approx time ramaining: 38.2579 sec
+2017-01-22 18:36:31.604 INFO -  Iteration 6:
+2017-01-22 18:36:31.604 INFO -    Classify accuracy - train: 0.4931 test: 0.4140
+2017-01-22 18:36:31.604 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:36:31.604 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:36:31.604 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:36:31.604 INFO -  >>> Using cache: data/mean_signal_power_T7.mat
+2017-01-22 18:36:44.405 INFO -  Subject time: 12.7900 sec, approx time ramaining: 25.5800 sec
+2017-01-22 18:36:44.406 INFO -  Iteration 7:
+2017-01-22 18:36:44.406 INFO -    Classify accuracy - train: 0.8264 test: 0.8159
+2017-01-22 18:36:44.407 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:36:44.410 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:36:44.411 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:36:44.412 INFO -  >>> Using cache: data/mean_signal_power_T8.mat
+2017-01-22 18:36:57.088 INFO -  Subject time: 12.6934 sec, approx time ramaining: 12.6934 sec
+2017-01-22 18:36:57.088 INFO -  Iteration 8:
+2017-01-22 18:36:57.104 INFO -    Classify accuracy - train: 0.7118 test: 0.6605
+2017-01-22 18:36:57.105 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:36:57.108 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:36:57.109 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:36:57.110 INFO -  >>> Using cache: data/mean_signal_power_T9.mat
+2017-01-22 18:37:09.788 INFO -  Subject time: 12.6933 sec, approx time ramaining: 0.0000 sec
+2017-01-22 18:37:09.788 INFO -  Iteration 9:
+2017-01-22 18:37:09.788 INFO -    Classify accuracy - train: 0.7882 test: 0.7803
+2017-01-22 18:37:09.788 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:37:09.788 INFO -  Processed in: 116.1254 sec
+2017-01-22 18:37:09.803 INFO -  mean: 0.6809/0.6370
+
+2017-01-22 18:37:09.804 INFO -  Evaluation step 7/11 done. Elapsed: 221.6625 sec, approx. time remaining: 886.6500 sec
+2017-01-22 18:37:09.804 INFO -  Begin batch = 175 evaluation
+2017-01-22 18:37:10.103 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:37:10.103 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:37:10.103 INFO -  >>> Using cache: data/mean_signal_power_T1.mat
+2017-01-22 18:37:32.188 INFO -  Subject time: 22.0961 sec, approx time ramaining: 176.7688 sec
+2017-01-22 18:37:32.188 INFO -  Iteration 1:
+2017-01-22 18:37:32.188 INFO -    Classify accuracy - train: 0.8229 test: 0.8078
+2017-01-22 18:37:32.188 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:37:32.204 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:37:32.205 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:37:32.205 INFO -  >>> Using cache: data/mean_signal_power_T2.mat
+2017-01-22 18:37:53.887 INFO -  Subject time: 21.6972 sec, approx time ramaining: 151.8802 sec
+2017-01-22 18:37:53.887 INFO -  Iteration 2:
+2017-01-22 18:37:53.887 INFO -    Classify accuracy - train: 0.6493 test: 0.4770
+2017-01-22 18:37:53.887 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:37:53.903 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:37:53.904 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:37:53.904 INFO -  >>> Using cache: data/mean_signal_power_T3.mat
+2017-01-22 18:38:15.338 INFO -  Subject time: 21.4380 sec, approx time ramaining: 128.6281 sec
+2017-01-22 18:38:15.338 INFO -  Iteration 3:
+2017-01-22 18:38:15.338 INFO -    Classify accuracy - train: 0.8819 test: 0.8315
+2017-01-22 18:38:15.338 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:38:15.338 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:38:15.338 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:38:15.338 INFO -  >>> Using cache: data/mean_signal_power_T4.mat
+2017-01-22 18:38:36.867 INFO -  Subject time: 21.5247 sec, approx time ramaining: 107.6235 sec
+2017-01-22 18:38:36.868 INFO -  Iteration 4:
+2017-01-22 18:38:36.868 INFO -    Classify accuracy - train: 0.6007 test: 0.6053
+2017-01-22 18:38:36.869 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:38:36.871 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:38:36.871 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:38:36.871 INFO -  >>> Using cache: data/mean_signal_power_T5.mat
+2017-01-22 18:38:58.421 INFO -  Subject time: 21.5540 sec, approx time ramaining: 86.2161 sec
+2017-01-22 18:38:58.421 INFO -  Iteration 5:
+2017-01-22 18:38:58.421 INFO -    Classify accuracy - train: 0.3299 test: 0.3043
+2017-01-22 18:38:58.421 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:38:58.421 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:38:58.421 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:38:58.421 INFO -  >>> Using cache: data/mean_signal_power_T6.mat
+2017-01-22 18:39:19.854 INFO -  Subject time: 21.4363 sec, approx time ramaining: 64.3088 sec
+2017-01-22 18:39:19.854 INFO -  Iteration 6:
+2017-01-22 18:39:19.854 INFO -    Classify accuracy - train: 0.5035 test: 0.4326
+2017-01-22 18:39:19.854 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:39:19.854 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:39:19.870 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:39:19.871 INFO -  >>> Using cache: data/mean_signal_power_T7.mat
+2017-01-22 18:39:41.387 INFO -  Subject time: 21.5281 sec, approx time ramaining: 43.0562 sec
+2017-01-22 18:39:41.387 INFO -  Iteration 7:
+2017-01-22 18:39:41.387 INFO -    Classify accuracy - train: 0.8264 test: 0.8123
+2017-01-22 18:39:41.387 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:39:41.387 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:39:41.387 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:39:41.387 INFO -  >>> Using cache: data/mean_signal_power_T8.mat
+2017-01-22 18:40:02.905 INFO -  Subject time: 21.5140 sec, approx time ramaining: 21.5140 sec
+2017-01-22 18:40:02.905 INFO -  Iteration 8:
+2017-01-22 18:40:02.905 INFO -    Classify accuracy - train: 0.7118 test: 0.6568
+2017-01-22 18:40:02.905 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:40:02.905 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:40:02.905 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:40:02.905 INFO -  >>> Using cache: data/mean_signal_power_T9.mat
+2017-01-22 18:40:24.454 INFO -  Subject time: 21.5455 sec, approx time ramaining: 0.0000 sec
+2017-01-22 18:40:24.454 INFO -  Iteration 9:
+2017-01-22 18:40:24.454 INFO -    Classify accuracy - train: 0.8090 test: 0.7803
+2017-01-22 18:40:24.454 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:40:24.454 INFO -  Processed in: 194.3650 sec
+2017-01-22 18:40:24.454 INFO -  mean: 0.6817/0.6342
+
+2017-01-22 18:40:24.470 INFO -  Evaluation step 8/11 done. Elapsed: 208.1631 sec, approx. time remaining: 624.4894 sec
+2017-01-22 18:40:24.470 INFO -  Begin batch = 200 evaluation
+2017-01-22 18:40:24.753 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:40:24.753 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:40:24.753 INFO -  >>> Using cache: data/mean_signal_power_T1.mat
+2017-01-22 18:40:40.450 INFO -  Subject time: 15.6964 sec, approx time ramaining: 125.5713 sec
+2017-01-22 18:40:40.451 INFO -  Iteration 1:
+2017-01-22 18:40:40.452 INFO -    Classify accuracy - train: 0.8299 test: 0.8078
+2017-01-22 18:40:40.452 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:40:40.455 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:40:40.455 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:40:40.455 INFO -  >>> Using cache: data/mean_signal_power_T2.mat
+2017-01-22 18:40:56.255 INFO -  Subject time: 15.8019 sec, approx time ramaining: 110.6131 sec
+2017-01-22 18:40:56.255 INFO -  Iteration 2:
+2017-01-22 18:40:56.255 INFO -    Classify accuracy - train: 0.6563 test: 0.5053
+2017-01-22 18:40:56.255 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:40:56.255 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:40:56.255 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:40:56.255 INFO -  >>> Using cache: data/mean_signal_power_T3.mat
+2017-01-22 18:41:11.921 INFO -  Subject time: 15.6626 sec, approx time ramaining: 93.9755 sec
+2017-01-22 18:41:11.921 INFO -  Iteration 3:
+2017-01-22 18:41:11.921 INFO -    Classify accuracy - train: 0.8889 test: 0.8425
+2017-01-22 18:41:11.921 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:41:11.921 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:41:11.921 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:41:11.921 INFO -  >>> Using cache: data/mean_signal_power_T4.mat
+2017-01-22 18:41:28.704 INFO -  Subject time: 16.7905 sec, approx time ramaining: 83.9523 sec
+2017-01-22 18:41:28.704 INFO -  Iteration 4:
+2017-01-22 18:41:28.704 INFO -    Classify accuracy - train: 0.6076 test: 0.6228
+2017-01-22 18:41:28.704 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:41:28.721 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:41:28.721 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:41:28.723 INFO -  >>> Using cache: data/mean_signal_power_T5.mat
+2017-01-22 18:41:44.487 INFO -  Subject time: 15.7830 sec, approx time ramaining: 63.1319 sec
+2017-01-22 18:41:44.503 INFO -  Iteration 5:
+2017-01-22 18:41:44.503 INFO -    Classify accuracy - train: 0.3160 test: 0.3007
+2017-01-22 18:41:44.504 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:41:44.505 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:41:44.505 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:41:44.505 INFO -  >>> Using cache: data/mean_signal_power_T6.mat
+2017-01-22 18:42:00.237 INFO -  Subject time: 15.7449 sec, approx time ramaining: 47.2346 sec
+2017-01-22 18:42:00.237 INFO -  Iteration 6:
+2017-01-22 18:42:00.237 INFO -    Classify accuracy - train: 0.5104 test: 0.4512
+2017-01-22 18:42:00.237 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:42:00.255 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:42:00.256 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:42:00.257 INFO -  >>> Using cache: data/mean_signal_power_T7.mat
+2017-01-22 18:42:15.871 INFO -  Subject time: 15.6270 sec, approx time ramaining: 31.2540 sec
+2017-01-22 18:42:15.871 INFO -  Iteration 7:
+2017-01-22 18:42:15.871 INFO -    Classify accuracy - train: 0.8264 test: 0.8231
+2017-01-22 18:42:15.871 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:42:15.871 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:42:15.871 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:42:15.871 INFO -  >>> Using cache: data/mean_signal_power_T8.mat
+2017-01-22 18:42:31.403 INFO -  Subject time: 15.5334 sec, approx time ramaining: 15.5334 sec
+2017-01-22 18:42:31.403 INFO -  Iteration 8:
+2017-01-22 18:42:31.403 INFO -    Classify accuracy - train: 0.7222 test: 0.6531
+2017-01-22 18:42:31.403 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:42:31.421 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:42:31.421 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:42:31.421 INFO -  >>> Using cache: data/mean_signal_power_T9.mat
+2017-01-22 18:42:46.880 INFO -  Subject time: 15.4606 sec, approx time ramaining: 0.0000 sec
+2017-01-22 18:42:46.881 INFO -  Iteration 9:
+2017-01-22 18:42:46.881 INFO -    Classify accuracy - train: 0.7986 test: 0.7841
+2017-01-22 18:42:46.882 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:42:46.883 INFO -  Processed in: 142.1291 sec
+2017-01-22 18:42:46.883 INFO -  mean: 0.6840/0.6434
+
+2017-01-22 18:42:46.888 INFO -  Evaluation step 9/11 done. Elapsed: 175.2889 sec, approx. time remaining: 350.5779 sec
+2017-01-22 18:42:46.888 INFO -  Begin batch = 250 evaluation
+2017-01-22 18:42:47.173 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:42:47.173 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:42:47.174 INFO -  >>> Using cache: data/mean_signal_power_T1.mat
+2017-01-22 18:43:08.601 INFO -  Subject time: 21.4297 sec, approx time ramaining: 171.4377 sec
+2017-01-22 18:43:08.602 INFO -  Iteration 1:
+2017-01-22 18:43:08.603 INFO -    Classify accuracy - train: 0.8368 test: 0.8078
+2017-01-22 18:43:08.604 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:43:08.604 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:43:08.604 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:43:08.604 INFO -  >>> Using cache: data/mean_signal_power_T2.mat
+2017-01-22 18:43:29.388 INFO -  Subject time: 20.7943 sec, approx time ramaining: 145.5603 sec
+2017-01-22 18:43:29.388 INFO -  Iteration 2:
+2017-01-22 18:43:29.388 INFO -    Classify accuracy - train: 0.6701 test: 0.5124
+2017-01-22 18:43:29.388 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:43:29.404 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:43:29.405 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:43:29.405 INFO -  >>> Using cache: data/mean_signal_power_T3.mat
+2017-01-22 18:43:49.838 INFO -  Subject time: 20.4469 sec, approx time ramaining: 122.6812 sec
+2017-01-22 18:43:49.838 INFO -  Iteration 3:
+2017-01-22 18:43:49.838 INFO -    Classify accuracy - train: 0.8924 test: 0.8498
+2017-01-22 18:43:49.838 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:43:49.854 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:43:49.854 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:43:49.854 INFO -  >>> Using cache: data/mean_signal_power_T4.mat
+2017-01-22 18:44:10.321 INFO -  Subject time: 20.4775 sec, approx time ramaining: 102.3874 sec
+2017-01-22 18:44:10.321 INFO -  Iteration 4:
+2017-01-22 18:44:10.321 INFO -    Classify accuracy - train: 0.6146 test: 0.6447
+2017-01-22 18:44:10.321 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:44:10.321 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:44:10.321 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:44:10.338 INFO -  >>> Using cache: data/mean_signal_power_T5.mat
+2017-01-22 18:44:30.854 INFO -  Subject time: 20.5199 sec, approx time ramaining: 82.0797 sec
+2017-01-22 18:44:30.854 INFO -  Iteration 5:
+2017-01-22 18:44:30.854 INFO -    Classify accuracy - train: 0.3229 test: 0.3478
+2017-01-22 18:44:30.854 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:44:30.854 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:44:30.854 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:44:30.854 INFO -  >>> Using cache: data/mean_signal_power_T6.mat
+2017-01-22 18:44:51.354 INFO -  Subject time: 20.5089 sec, approx time ramaining: 61.5267 sec
+2017-01-22 18:44:51.354 INFO -  Iteration 6:
+2017-01-22 18:44:51.354 INFO -    Classify accuracy - train: 0.5208 test: 0.4698
+2017-01-22 18:44:51.354 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:44:51.370 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:44:51.370 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:44:51.370 INFO -  >>> Using cache: data/mean_signal_power_T7.mat
+2017-01-22 18:45:11.854 INFO -  Subject time: 20.4958 sec, approx time ramaining: 40.9917 sec
+2017-01-22 18:45:11.854 INFO -  Iteration 7:
+2017-01-22 18:45:11.854 INFO -    Classify accuracy - train: 0.8403 test: 0.8267
+2017-01-22 18:45:11.854 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:45:11.854 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:45:11.870 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:45:11.870 INFO -  >>> Using cache: data/mean_signal_power_T8.mat
+2017-01-22 18:45:32.327 INFO -  Subject time: 20.4590 sec, approx time ramaining: 20.4590 sec
+2017-01-22 18:45:32.328 INFO -  Iteration 8:
+2017-01-22 18:45:32.328 INFO -    Classify accuracy - train: 0.7188 test: 0.6642
+2017-01-22 18:45:32.329 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:45:32.331 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:45:32.332 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:45:32.332 INFO -  >>> Using cache: data/mean_signal_power_T9.mat
+2017-01-22 18:45:52.843 INFO -  Subject time: 20.5135 sec, approx time ramaining: 0.0000 sec
+2017-01-22 18:45:52.844 INFO -  Iteration 9:
+2017-01-22 18:45:52.845 INFO -    Classify accuracy - train: 0.7986 test: 0.7727
+2017-01-22 18:45:52.845 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:45:52.846 INFO -  Processed in: 185.6751 sec
+2017-01-22 18:45:52.846 INFO -  mean: 0.6906/0.6551
+
+2017-01-22 18:45:52.887 INFO -  Evaluation step 10/11 done. Elapsed: 180.6436 sec, approx. time remaining: 180.6436 sec
+2017-01-22 18:45:52.887 INFO -  Begin batch = 300 evaluation
+2017-01-22 18:45:53.154 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:45:53.154 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:45:53.154 INFO -  >>> Using cache: data/mean_signal_power_T1.mat
+2017-01-22 18:46:14.887 INFO -  Subject time: 21.7346 sec, approx time ramaining: 173.8766 sec
+2017-01-22 18:46:14.887 INFO -  Iteration 1:
+2017-01-22 18:46:14.887 INFO -    Classify accuracy - train: 0.8368 test: 0.8043
+2017-01-22 18:46:14.887 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:46:14.903 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:46:14.903 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:46:14.903 INFO -  >>> Using cache: data/mean_signal_power_T2.mat
+2017-01-22 18:46:36.688 INFO -  Subject time: 21.7872 sec, approx time ramaining: 152.5103 sec
+2017-01-22 18:46:36.688 INFO -  Iteration 2:
+2017-01-22 18:46:36.688 INFO -    Classify accuracy - train: 0.6806 test: 0.5230
+2017-01-22 18:46:36.688 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:46:36.688 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:46:36.688 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:46:36.688 INFO -  >>> Using cache: data/mean_signal_power_T3.mat
+2017-01-22 18:46:58.304 INFO -  Subject time: 21.6172 sec, approx time ramaining: 129.7031 sec
+2017-01-22 18:46:58.304 INFO -  Iteration 3:
+2017-01-22 18:46:58.304 INFO -    Classify accuracy - train: 0.8854 test: 0.8425
+2017-01-22 18:46:58.304 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:46:58.304 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:46:58.304 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:46:58.304 INFO -  >>> Using cache: data/mean_signal_power_T4.mat
+2017-01-22 18:47:20.138 INFO -  Subject time: 21.8337 sec, approx time ramaining: 109.1685 sec
+2017-01-22 18:47:20.138 INFO -  Iteration 4:
+2017-01-22 18:47:20.138 INFO -    Classify accuracy - train: 0.6076 test: 0.6360
+2017-01-22 18:47:20.138 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:47:20.138 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:47:20.138 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:47:20.138 INFO -  >>> Using cache: data/mean_signal_power_T5.mat
+2017-01-22 18:47:41.855 INFO -  Subject time: 21.7050 sec, approx time ramaining: 86.8201 sec
+2017-01-22 18:47:41.855 INFO -  Iteration 5:
+2017-01-22 18:47:41.855 INFO -    Classify accuracy - train: 0.3542 test: 0.3406
+2017-01-22 18:47:41.855 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:47:41.855 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:47:41.855 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:47:41.855 INFO -  >>> Using cache: data/mean_signal_power_T6.mat
+2017-01-22 18:48:03.604 INFO -  Subject time: 21.7550 sec, approx time ramaining: 65.2651 sec
+2017-01-22 18:48:03.604 INFO -  Iteration 6:
+2017-01-22 18:48:03.620 INFO -    Classify accuracy - train: 0.5208 test: 0.4791
+2017-01-22 18:48:03.620 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:48:03.623 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:48:03.623 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:48:03.624 INFO -  >>> Using cache: data/mean_signal_power_T7.mat
+2017-01-22 18:48:25.388 INFO -  Subject time: 21.7739 sec, approx time ramaining: 43.5478 sec
+2017-01-22 18:48:25.388 INFO -  Iteration 7:
+2017-01-22 18:48:25.388 INFO -    Classify accuracy - train: 0.8403 test: 0.8303
+2017-01-22 18:48:25.388 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:48:25.388 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:48:25.388 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:48:25.388 INFO -  >>> Using cache: data/mean_signal_power_T8.mat
+2017-01-22 18:48:47.172 INFO -  Subject time: 21.7823 sec, approx time ramaining: 21.7823 sec
+2017-01-22 18:48:47.172 INFO -  Iteration 8:
+2017-01-22 18:48:47.172 INFO -    Classify accuracy - train: 0.7431 test: 0.6531
+2017-01-22 18:48:47.172 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:48:47.172 INFO -  >>> Loading from cache scheduled
+2017-01-22 18:48:47.172 INFO -  Evaluating: features - mean_signal_power, classifier - classify_matcnn...
+2017-01-22 18:48:47.172 INFO -  >>> Using cache: data/mean_signal_power_T9.mat
+2017-01-22 18:49:08.988 INFO -  Subject time: 21.8136 sec, approx time ramaining: 0.0000 sec
+2017-01-22 18:49:08.988 INFO -  Iteration 9:
+2017-01-22 18:49:08.988 INFO -    Classify accuracy - train: 0.8090 test: 0.7765
+2017-01-22 18:49:08.988 INFO -    Validate 10-fold  - train: 1.0000 test: 1.0000
+
+2017-01-22 18:49:08.988 INFO -  Processed in: 195.8359 sec
+2017-01-22 18:49:08.988 INFO -  mean: 0.6975/0.6539
+
+2017-01-22 18:49:09.005 INFO -  Evaluation step 11/11 done. Elapsed: 188.3810 sec, approx. time remaining: 0.0000 sec
+2017-01-22 18:49:09.005 INFO -  Done. Total time: 4276.7634 sec
