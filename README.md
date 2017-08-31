@@ -1,3 +1,10 @@
+About
+--------------
+_"Application of Convolutional Neural Networks to Four-Class Motor Imagery Classification Problem"_ &nbsp;</br>
+by _Tomas Uktveris and Vacius Jusas_
+
+DOI: http://dx.doi.org/10.5755/j01.itc.46.2.17528
+
 Requirements:
 --------------
 MATLAB 2016a or later w/ CUDA capable GPU.
@@ -17,5 +24,3 @@ N.B. Some experiments take a long time to complete!
 Results
 --------------
 Check ./cnn_results directory.
-
-Done!
